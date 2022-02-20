@@ -38,6 +38,7 @@ public class CashRegister {
 		} else {
 			
 			System.out.println("Price of item : "+priceOfitem+"\nAmount paid : "+ paymentAmount);
+			
 
 			while (change >= 20.00) {
 
