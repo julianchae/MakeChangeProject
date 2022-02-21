@@ -98,7 +98,7 @@ public class CashRegister {
 
 		}
 		if(nicks!=0)
-		System.out.println("Your change includes : " + nicks + " nickels(s).");
+		System.out.println("Your change includes : " + nicks + " nickel(s).");
 		while (change >= 1) {
 			change = change - 1;
 			pennies++;
